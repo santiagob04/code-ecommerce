@@ -3,7 +3,7 @@ import { BrowserRouter, Route,Routes} from 'react-router-dom';
 import NavBar from './componentes/NavBar/NavBar.jsx'
 import ItemListContainer from './componentes/Catalog/ItemListContainer'
 import ItemDetailContainer from './componentes/ProductDeailt/ItemDetailContainer'
-import Home from './componentes/Home/Home';
+import Home from './Pages/Home/Home';
 
 
 function App() {
@@ -21,7 +21,6 @@ function App() {
           <Route path="/item/:id" element={<ItemDetailContainer />} />
   
         </Routes>
-        {/* <ItemListContainer /> */}
         
         
       </header>

@@ -14,7 +14,6 @@ function ItemListContainer() {
           <p>id: {product.id}</p>
           <h2>Nombre: {product.name}</h2>
           <p>Precio: {product.price}</p>
-          {/* <p>Descripcion: {product.description}</p> */}
           <p>Categoria: {product.category}</p>
           <Link to={`/item/${product.id}`}>Ver detalle</Link>
         </div>
