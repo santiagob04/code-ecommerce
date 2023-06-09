@@ -1,0 +1,31 @@
+[
+    {
+      "id": 145617,
+      "name": "Procesador Intel Core i7",
+      "price": 300,
+      "description": "Potente procesador Intel Core i7 para alto rendimiento.",
+      "category": "Procesadores"
+    },
+    {
+      "id": 2,
+      "name": "Tarjeta gráfica NVIDIA GeForce RTX 3070",
+      "price": 700,
+      "description": "Tarjeta gráfica de última generación para una experiencia de juego inmersiva.",
+      "category": "Tarjetas gráficas"
+    },
+    {
+      "id": 3,
+      "name": "Memoria RAM Corsair Vengeance LPX 16GB",
+      "price": 100,
+      "description": "Memoria RAM de alto rendimiento para una multitarea fluida.",
+      "category": "Memorias RAM"
+    },
+    {
+      "id": 4,
+      "name": "Disco duro SSD Samsung 1TB",
+      "price": 150,
+      "description": "Disco duro de estado sólido con gran capacidad de almacenamiento y alta velocidad de lectura/escritura.",
+      "category": "Discos duros"
+    }
+  ]
+  

@@ -1,0 +1,37 @@
+header .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1rem;
+}
+
+header .navbar .container-fluid .logo {
+    text-decoration: none;
+    color: white;
+}
+
+header .navbar .container-fluid .logo h1 {
+    font-size: 2.5rem;
+    top: 30px;
+    font-family: "Source Code Pro", monospace;
+    font-weight: bold;
+    color: white;
+    overflow: hidden;
+    border-right: 0.15em solid orange;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: 0.15em;
+
+}
+
+header .navbar .container-fluid .navbar-collapse {
+    padding-top: 1rem;
+    justify-content: flex-end;
+}
+
+header .navbar .container-fluid .navbar-collapse .navbar-list {
+    display: flex;
+    gap: 10px;
+}
+ul {
+    list-style: none;}
